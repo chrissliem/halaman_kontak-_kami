@@ -1,0 +1,53 @@
+/* Confirmation Page */
+.confirmation-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  width: 818px;
+  background: white;
+  border-radius: 10px;
+  border: 1px solid #FF2020;
+  padding: 30px;
+  text-align: center;
+}
+
+.container img {
+  width: 150px;
+  height: auto;
+}
+
+.container h2 {
+  font-size: 20px;
+  font-weight: 700;
+  margin: 20px 0 10px;
+  color: #000;
+}
+
+.container p {
+  font-size: 16px;
+  font-weight: 300;
+  color: #000;
+  margin-bottom: 30px;
+}
+
+
+
+.back-button {
+  background-color: #FF2020;
+  color: #FCF1FD;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 15px 50px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.back-button:hover {
+  background-color: #cc1a1a;
+}
